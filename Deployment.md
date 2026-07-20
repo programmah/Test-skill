@@ -1,19 +1,16 @@
 # Bootcamp Description
 
-Test-skill bootcamp repository scaffold validation.
+Add description here
 
 ## Deploying the Lab
 
 ### Prerequisites
 
-- Hardware: NVIDIA GPU-enabled workstation, server, or cloud instance suitable for the selected labs.
-- Operating system: Linux environment with NVIDIA drivers installed.
-- Containers: Docker with NVIDIA Container Toolkit, or Singularity/Apptainer with NVIDIA GPU passthrough.
-- Base dependencies: Git, Python 3, JupyterLab, and access to any datasets required by the notebooks.
+- Add list of prerequisite here (minimum Hardware requirements, OS, containers, and other base dependencies)
 
 ### Tested Environment
 
-Validated on an NVIDIA GPU-enabled development environment. Update this section with the exact GPU, driver, CUDA, and container runtime used for final testing.
+Add the labs where tested (e.g., DGX H100 80GB, workstation with RTX A500 GPU )
 
 ### Deploying with Container
 
@@ -62,14 +59,10 @@ Follow the dataset instructions in the relevant lab notebook or place prepared d
 
 ### Known Issues
 
-- GPU is not visible inside Docker: verify the NVIDIA driver and NVIDIA Container Toolkit installation, then rerun with `--gpus all`.
-- NGC container pulls fail: authenticate with `docker login nvcr.io` and confirm that the container tag in `Dockerfile` is available.
-- JupyterLab does not open in the browser: check the terminal output for the token URL and verify that port `8888` is forwarded.
-- Dataset files are missing: rerun the dataset setup command or place the required files under `workspace/data/`.
-- Permission errors in mounted folders: confirm that the workspace is writable by the container user or adjust the mount path.
+- List commonly encountered issues and solutions here
 
 ## Repository
 
 - Owner: `programmah`
 - Default branch: `main`
-- Estimated duration: Estimated 2-4 hours. Update this value for the final bootcamp schedule.
+- Estimated duration: Add Bootcamp tutorial duration

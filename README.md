@@ -2,25 +2,19 @@
 
 ## Bootcamp Description
 
-Test-skill bootcamp repository scaffold validation.
+Add description here
 
 ## Bootcamp Content
 
-- `workspace/start_here.ipynb`: bootcamp overview, prerequisites, table of contents, and licensing notes.
-- `workspace/jupyter_notebook/`: add the hands-on Jupyter notebook labs for this bootcamp.
-- `workspace/challenge/`: add challenge-lab assets and instructions when the bootcamp includes a challenge.
+- List Bootcamp content here.
 
 ## Bootcamp Duration
 
-Estimated 2-4 hours. Update this value for the final bootcamp schedule.
+Add Bootcamp tutorial duration
 
 ## Tools and Frameworks
 
-- [NVIDIA NeMo](https://docs.nvidia.com/nemo-framework/user-guide/latest/overview.html)
-- [NVIDIA NGC Containers](https://catalog.ngc.nvidia.com/)
-- [JupyterLab](https://jupyterlab.readthedocs.io/)
-- [Docker](https://docs.docker.com/)
-- [Singularity/Apptainer](https://apptainer.org/docs/)
+- list NVIDIA SDKs/Frameworks with hyperlinks used in the bootcamp content
 
 ## Deploying the Bootcamp Material
 
